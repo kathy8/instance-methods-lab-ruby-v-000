@@ -7,7 +7,6 @@ end
 end
 
 def walk
-  puts "The Dog is sitting"
-end 
+  puts "The Person is walking"
 end
-
+end
